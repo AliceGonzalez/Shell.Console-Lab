@@ -1,4 +1,4 @@
-# Console Lab Level 1
+# Console (Terminal, Shell) Lab
 
 ## Objectives
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-The console (also referred to as the command line, terminal, or shell) is an essential tool for programmers to be familiar with. The command line shell we will be using is called Bash. This lab will focus on the basics for navigating and investigating the file system through the command line. In this lab we will only be using the command line in interactive mode (more on that in the Bash labs). Here are the commands we will focus on:
+The _console_ (also referred to as the **command line, terminal, or shell**) is an essential tool for programmers to be familiar with. The command line shell we will be using is called Bash. This lab will focus on the basics for navigating and investigating the file system through the command line. In this lab we will only be using the command line in interactive mode (more on that in the Bash labs). Here are the commands we will focus on:
 
 - `pwd` - "Print Working Directory" prints out your current location (known as your current working directory or 'cwd')
 - `ls` - lists contents of the cwd
